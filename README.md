@@ -30,13 +30,13 @@ El proyecto fue desarrollado con las siguientes herramientas:
 - [Sass](https://sass-lang.com/)
 - [TMDb API](https://www.themoviedb.org/documentation/api)
 
---
+
 ## generar el apk con android estudio
 -npx can add android 
 -npx can open android
 
 ## instrucciones de instalacion
---
+
 - git clone https://github.com/Revolver244/peliculas-app.git
 - cd peliculas-app
  (Asegúrate de tener Node.js 16 y npm 8 (puedes usar nvm use 16 si tienes instalado nvm).
