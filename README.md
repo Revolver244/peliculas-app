@@ -36,7 +36,7 @@ El proyecto fue desarrollado con las siguientes herramientas:
 -git clone https://github.com/Revolver244/peliculas-app.git
 -cd peliculas-app
 (Asegúrate de tener Node.js 16 y npm 8 (puedes usar nvm use 16 si tienes instalado nvm).
-
+--
 -npm install
 -ionic serve
 -ionic build
