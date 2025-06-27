@@ -34,7 +34,7 @@ El proyecto fue desarrollado con las siguientes herramientas:
 ## generar el apk con android estudio
 -npx can add android 
 -npx can open android
---
+
 ## instrucciones de instalacion
 --
 - git clone https://github.com/Revolver244/peliculas-app.git
